@@ -1,2 +1,2 @@
-# 1por6-Aplica-es-Mobile
+# 1por6-Aplicacoes-Mobile
 Aplicações Mobile 2025 Maurício e André
