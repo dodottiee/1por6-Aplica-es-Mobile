@@ -76,7 +76,7 @@
 ## 🗂️ Estrutura do GitHub
 
 * 📦 [Repositório](https://github.com/dodottiee/1por6-Aplica-es-Mobile)
-* 🗃️ [GitHub Project (Kanban)](https://github.com/users/dodottiee/projects/1)
+* 🗃️ [Trello (Kanban)]([https://github.com/users/dodottiee/projects/1](https://trello.com/invite/b/6891425c6d6c5d6ffe1459f5/ATTIaa6076d0eb0fbee42957aa7a64c15dd79A03EFF2/organizacao))
 
 ---
 
